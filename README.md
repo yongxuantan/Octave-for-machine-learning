@@ -5,6 +5,8 @@ For inquiries, please email ymtan1@hotmail.com.
 
 Acknowledgement: In addition to showing appreciation for Stanford professor, Dr. Andrew Ng, and his machine learning course, I hope this repository can serve as an inspiration for others to explore new career opportunities.
 
+- [Regularized linear and logistic regression algorithms](http://openclassroom.stanford.edu/MainFolder/DocumentPage.php?course=MachineLearning&doc=exercises/ex5/ex5.html)
+
 ```
 GNU Octave Version 3.8.0
 GNU Octave License: GNU General Public License
