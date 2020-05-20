@@ -16,3 +16,7 @@ figures:
 
 goal: implement SVM and train models for binary classification
   - including feature extraction from sample emails
+
+other files:
+- svmPredict.m :SVM prediction function
+- svmTrain.m :SVM training function
